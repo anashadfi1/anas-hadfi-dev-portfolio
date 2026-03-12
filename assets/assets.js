@@ -124,17 +124,18 @@ export const assets = {
 
 export const workData = [
     {
+        title: 'E-Commerce Plateform',
+        description: 'Web Dev',
+        bgImage: '/gaming.jpg',
+        githubLink:"https://github.com/anashadfi1/springcart"
+    },
+    {
         title: 'Real Estate Preditiction',
         description: 'Machine Learning',
         bgImage: '/real_estate.jpg',
         githubLink:"https://github.com/anashadfi1/housing-exploratory-data-analysis-project"
     },
-    {
-        title: 'Gaming Analytics',
-        description: 'Data Science',
-        bgImage: '/gaming.jpg',
-        githubLink:"https://github.com/anashadfi1/housing-exploratory-data-analysis-project"
-    },
+    
     {
         title: 'Loss function',
         description: 'Language Model',
