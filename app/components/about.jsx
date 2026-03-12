@@ -45,8 +45,7 @@ const About = () => {
         whileInView={{opacity:1,y:0}}
         transition={{duration:0.6, delay:0.8}}>
     <p className='mb-10 max-w-2xl font-Ovo'>
-     I work at the intersection of data, logic, and decision-making. My background in software engineering allows me to approach analytics with structure and precision.
-     </p>
+I work at the intersection of code, logic, and problem-solving. My background in software engineering allows me to approach development with structure and precision.     </p>
 
     <motion.ul 
         initial={{opacity:0}}

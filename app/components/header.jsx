@@ -35,8 +35,7 @@ const Header = () => {
         whileInView={{opacity:1}}
         transition={{duration:0.6, delay:0.7}}
         className='max-w-2xl mx-auto font-Ovo'>
-           I specialise in building dashboards, analysing performance data, and uncovering insights that drive growth. I focus on clarity, efficiency, and measurable impact.
-
+I specialise in building robust applications, designing efficient systems, and creating solutions that drive impact. I focus on clarity, efficiency, and measurable results.
         </motion.h3>
         <div className='flex flex-col sm:flex-row items-center gap-4 mt-4'>
             <motion.a href="#contact"
