@@ -125,23 +125,24 @@ export const assets = {
 export const workData = [
     {
         title: 'E-Commerce Plateform',
-        description: 'Web Dev',
-        bgImage: '/gaming.jpg',
+        description: 'Spring & Angular',
+        bgImage: '/commerce.jpg',
         githubLink:"https://github.com/anashadfi1/springcart"
+    },
+     {
+        title: 'Gestion Absences',
+        description: 'Spring & Angular',
+        bgImage: '/school.jpg',
+        githubLink:"https://github.com/anashadfi1/gestion-absences-spring-angular"
     },
     {
         title: 'Real Estate Preditiction',
-        description: 'Machine Learning',
+        description: 'Data Science',
         bgImage: '/real_estate.jpg',
         githubLink:"https://github.com/anashadfi1/housing-exploratory-data-analysis-project"
     },
     
-    {
-        title: 'Loss function',
-        description: 'Language Model',
-        bgImage: '/language_model.jpg',
-        githubLink:"https://github.com/anashadfi1/language-model-for-loss-function-using-pytorch-data-visualisation-with-matplotlib"
-    },
+   
     {
         title: 'Titanic survivors',
         description: 'Data Science',
@@ -164,13 +165,14 @@ export const infoList = [
 ];
 
 export const toolsData = [
+    {icon: assets.csharp, text:"C#"},
+    {icon: assets.asp, text:"ASP.NET Core"},
+    {icon:assets.java_logo, text:'Java'}, 
+    {icon: assets.spring_logo, text:"Spring Boot"},
     {icon: assets.js_icon, text:"Javascript"},
     {icon:assets.typescript_logo, text:'Typescript'}, 
     {icon:assets.react_icon, text:'React'},  
     {icon:assets.next_icon, text:"Next.js"},
     {icon:assets.angular, text:'Angular'},
-    {icon:assets.java_logo, text:'Java'}, 
-    {icon: assets.spring_logo, text:"Spring Boot"},
-    {icon: assets.csharp, text:"C#"},
-    {icon: assets.asp, text:"ASP.NET Core"},
+
 ];

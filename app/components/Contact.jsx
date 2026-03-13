@@ -5,7 +5,7 @@ import { assets } from '@/assets/assets'
 import { motion } from 'motion/react'
 const Contact = () => {
   const [result, setResult] = React.useState("");
-  const apiKey = process.env.NEXT_PUBLIC_WEB3FORMS_KEY || "fallback-for-debug"
+  const apiKey = 'cfdba917-e4b2-488c-9622-cc0d9a4072e3'
   const onSubmit = async (event) => {
     event.preventDefault();
     setResult("Sending....");
