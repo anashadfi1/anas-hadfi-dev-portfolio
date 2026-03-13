@@ -43,7 +43,7 @@ I specialise in building robust applications, designing efficient systems, and c
             whileInView={{y:0,opacity:1}}
             transition={{duration:0.6, delay:1}}
             className='px-10 py-3 border border-white rounded-full bg-black text-white flex items-center gap-2'> contact me <Image src={assets.right_arrow_bold_dark} alt='' className='w-4'/></motion.a>
-             <motion.a href="/Anas-Hadfi-resume.pdf"
+             <motion.a href="/Anas HADFI - Resume.pdf"
              initial={{opacity:30, opacity:0}}
             whileInView={{y:0,opacity:1}}
             transition={{duration:0.6, delay:1.2}}
